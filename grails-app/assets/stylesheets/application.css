@@ -1,0 +1,21 @@
+p {
+  margin: 1rem;
+  color: #f9fffb;
+}
+
+a {
+  color: darkred;
+}
+
+.footer-header-box {
+  border-color: #575759;
+  border-width: 2px;
+  border-style: solid;
+  background: #255b17;
+}
+
+.content-box {
+  margin: 1rem;
+  background: #999999;
+  alignment: center;
+}
